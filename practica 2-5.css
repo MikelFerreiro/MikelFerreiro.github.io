@@ -1,0 +1,40 @@
+html{
+    background-color: lightgoldenrodyellow;
+}
+
+body{
+    border:2px dotted black;
+    width: 40em;
+    height: 30em;
+    margin: 0 auto;
+    background-color: lightslategrey;
+}
+#jugar{
+    width:20em;
+    height: 4em;
+    margin-left: 15em;
+    margin-top:15em;
+    position: absolute;
+}
+#numero{
+    font-size: 2em;
+    text-align: center;
+    width: 4em;
+    margin-left: 2em;
+    margin-top:4em;
+    position: absolute;
+}
+#tabla{
+    float: right;
+    margin-top: 1em;
+    width: 22em;
+    text-align: center;
+}
+#area{
+    width: 12em;
+    position: absolute;
+    text-align: center;
+    margin-top: 12em;
+    margin-left: 2em;
+    font-size: 1.1em;
+}
